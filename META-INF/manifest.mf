@@ -1,0 +1,68 @@
+Manifest-Version: 1.0
+
+Name: clipboard-helper.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: GpRn5sFnWSkdyHKdr+qBLg==
+SHA1-Digest: QzCViLYmQmPgeEXYoJQJ47EOuQI=
+SHA256-Digest: OaGq3qsRyuR4T2J+VjLWjq8s9BsvAcUftVP4OCL/uXo=
+
+Name: defaults.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: xw4+pFR0h1/87FjAtk8L2w==
+SHA1-Digest: 4bLZM1wWmDkNt+ixNluZoe0THT4=
+SHA256-Digest: EX9lQrJ+9PDj0f6+NuW6lrsrOHQLQSG5/WjCjlklIsM=
+
+Name: linktextlocationcopier.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 94ShQWedekKQxwP3iyhSAQ==
+SHA1-Digest: 6j+9xucC6Es8pDRgCFsJlUq30yQ=
+SHA256-Digest: GrcxzdE6Ottz8WaU4vz7J+EwoR36j/i1rBC7j//EMw8=
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: HlBDAIgKIZyOm0EJCGMRGg==
+SHA1-Digest: ZMM36Xtl/s5R5/ReljZVU+xrpnY=
+SHA256-Digest: uBZtxt6hVsf3/xloBetQcKHmspsXCayb8rjXCOZZcYg=
+
+Name: paint-brush.svg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 8A9+K4GiEEuq//SUND0U+A==
+SHA1-Digest: qsi//cpz8MovSe/gt7PqhN6lE/c=
+SHA256-Digest: t1EeHSWaNWrFgxLSe3jfDHFxVgvjE8WqyG8yvjnaIzo=
+
+Name: _locales/de/messages.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: GiKGZ5YFf8KtGL6EfKa4sA==
+SHA1-Digest: dpFsDQJi2nkxq0FNimG0+ezIueg=
+SHA256-Digest: ATjh5EbGj+0DH8n1+c0mk5ToAcFgjj32jdgDBb3c0Dw=
+
+Name: _locales/en/messages.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: FmdlNIRNWUuptqxsKkBbfg==
+SHA1-Digest: vofu4TA0SDxqHNuJBoXyehTl478=
+SHA256-Digest: DoUNFHGiiADG5l5/ClLbrxDWsnzlg7Us7MOQ+SUfozQ=
+
+Name: _locales/nl/messages.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 4NZA117SeeQ3/xRL8j3qQg==
+SHA1-Digest: Pys8bSpJd0mRePWkNuNyDuB7D98=
+SHA256-Digest: qNKSJ41JDPbGDMLx2cY09SM4VX/E8EiJfhoqmdXRKqo=
+
+Name: options/index.html
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: bnuWS6tTVfaDVdnZzC0LVQ==
+SHA1-Digest: T06Qy5+RFuVZDg+90QCW0NFTDbs=
+SHA256-Digest: Jy78wyg/eOSAyeZzVnYePZ3TncLOONKV5wnT44m7yCQ=
+
+Name: options/options.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: ZsgJD8pGFqttAi3fKY/+RA==
+SHA1-Digest: 8bX3HVBCDCYIc/w+qvsJj64k/Xo=
+SHA256-Digest: X73hKakwqyjsXOYXw2aRP5d5lry2rmG/SuX9KPZHlVk=
+
+Name: options/style.css
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: QjH5WtrQSlvhelexc2vg9A==
+SHA1-Digest: oOzemMEm2OOeoWmYW52lwaEaPiM=
+SHA256-Digest: B7obK7wuFuac2SKtwSrzzUoAsulx+VMeKjfPAp5G09o=
+
